@@ -1,0 +1,182 @@
+time:	2025.12.6-16:21:55
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/data1.txt
+Output:	./encoded/data1.txt
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	1KB
+Run time:	6300.200000us
+Operating speed:	207B/ms
+-----------------------------------------
+time:	2025.12.6-16:21:55
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/data2.txt
+Output:	./encoded/data2.txt
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	3KB
+Run time:	16384.100000us
+Operating speed:	244B/ms
+-----------------------------------------
+time:	2025.12.6-16:21:55
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/data3.txt
+Output:	./encoded/data3.txt
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	2KB
+Run time:	10005.200000us
+Operating speed:	235B/ms
+-----------------------------------------
+time:	2025.12.6-16:21:55
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/data4.txt
+Output:	./encoded/data4.txt
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	2KB
+Run time:	9262.700000us
+Operating speed:	242B/ms
+-----------------------------------------
+time:	2025.12.6-16:21:55
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/data5.txt
+Output:	./encoded/data5.txt
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	5KB
+Run time:	22535.600000us
+Operating speed:	255B/ms
+-----------------------------------------
+time:	2025.12.6-16:21:55
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/data6.txt
+Output:	./encoded/data6.txt
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	1KB
+Run time:	8422.300000us
+Operating speed:	247B/ms
+-----------------------------------------
+time:	2025.12.6-16:21:55
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/data7.txt
+Output:	./encoded/data7.txt
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	1KB
+Run time:	7918.700000us
+Operating speed:	265B/ms
+-----------------------------------------
+time:	2025.12.6-16:21:55
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/data8.txt
+Output:	./encoded/data8.txt
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	5KB
+Run time:	24273.300000us
+Operating speed:	235B/ms
+-----------------------------------------
+time:	2025.12.6-16:21:55
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/data9.txt
+Output:	./encoded/data9.txt
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	7KB
+Run time:	30557.800000us
+Operating speed:	254B/ms
+-----------------------------------------
+time:	2025.12.6-16:21:55
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/data10.txt
+Output:	./encoded/data10.txt
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	2KB
+Run time:	9666.700000us
+Operating speed:	253B/ms
+-----------------------------------------
+time:	2025.12.6-16:25:14
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/data/75e0b34265c0222a74240463f80ef868.jpg
+Output:	./encoded/75e0b34265c0222a74240463f80ef868.jpg
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	115KB
+Run time:	490795.300000us
+Operating speed:	241B/ms
+-----------------------------------------
+time:	2025.12.6-16:25:50
+Type:	DECODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/des/encoded/75e0b34265c0222a74240463f80ef868.jpg
+Output:	./decoded/75e0b34265c0222a74240463f80ef868.jpg
+
+key 1:123456789
+key 2:54567895
+key 3:80744549
+
+File size:	115KB
+Run time:	491351.900000us
+Operating speed:	241B/ms
+-----------------------------------------
+time:	2025.12.8-17:1:34
+Type:	ENCODE
+Algo:	1
+Input:	D:/◊¿√Ê/…Ò√ÿ∑ ÷Ìº–/DES-RSA-master/des/encoded/75e0b34265c0222a74240463f80ef868.jpg
+Output:	./encoded/75e0b34265c0222a74240463f80ef868.jpg
+
+key 1:123456789
+key 2:54567895
+key 3:8074449
+
+File size:	115KB
+Run time:	486689.800000us
+Operating speed:	243B/ms
+-----------------------------------------
